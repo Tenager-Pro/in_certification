@@ -2,6 +2,7 @@
 Промежуточная аттестация
 
 Решение задание на вторую промежуточную аттестацию по python
+Ссылка на colab: https://colab.research.google.com/drive/1xLhu2G5ry1DD5QvCcsm-z9AYQISIv37o?usp=sharing
 
 Была выполнена:
 Предобработка данных
